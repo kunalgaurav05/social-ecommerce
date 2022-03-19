@@ -1,0 +1,67 @@
+** Topic **  : social-commerce management system. Aim : To develop a data model and social-commerce management system.
+
+** Objective **  :
+                  Social commerce is an extension of e-commerce that involves social media and online media. User-generated 
+                  content and sharing reviews also come under this category. Social commerce was first introduced with the concept
+                  of promoting e-commerce brands on other websites through advertorial content. Here , user reviews and peer to
+                  peer conversation in social media determine the shopping of a brand. This can happen without the brand being active
+                  in the social commerce front and can indicate the influence social media has on both online and Offline .
+                  
+                  
+*** The problem with the e-commerce system *** : 
+
+                                                The e-commerce system has various flaws because most of the people don’t use the system even 
+                                                though it has several advantages over traditional stores. The biggest problem is that it takes 
+                                                at least a day to deliver a product to the customer. While some other issues are a duplication 
+                                                of the product means the product is shown on the web some time differs with the original product
+                                                due to which next time that customer goes to buy the product through the traditional type of stores.
+                                                
+ *** Proposed system  *** :
+                            Social commerce is the buying and selling of goods or
+                            services directly within a social media platform. This model moves social
+                            media beyond its traditional role in the discovery process by encouraging
+                            users to complete the entire purchase process without leaving their preferred apps.
+                            
+                            
+** Data module ** :
+
+       1. Registration :
+                       In order to use the system the users( both sellers and
+                       (users) will need to register in the system, and for registration, they need to
+                       provide various information related to them such as name, address, etc.
+                        
+       2. Dashboard :
+                    Will mainly focus on the menu bar and search bar.
+                    
+                   > Menu bar : It will give the option to navigate through different -
+                    different categories.
+                    
+                   > Search bar : This provides users with an option through which they
+                    can search the product they want to purchase.
+                    
+                       
+       3. Cart : After selecting a product if the user wants to purchase it, later they can save the product in the cart.
+                 customers can get direct purchase or add to cart option from review or any post by any other customers .        
+       
+       4. Check out : Through this module , the user can replace their order and can choose a preferred method to make the payment .
+       
+       5. Purchase History : This will show the purchase done by the user in the past.
+       
+       6. Review/Post : Users will post the product reviews as a post to showcase their product as the content. 
+       Interested people who like the content marketing as what to buy for a particular purpose 
+       (like gym , traditional , marriage , etc ) can engage there itself . 
+       
+       
+  
+       7. Connecting with each other : As users/customers get engaged with each other bringing them close in the commerce
+       marketplace via liking posts , messaging and different many features.
+           
+           ** there a lot more features that we goona add like how to intrarct  with people (users), how they will create the content , who all can 
+           connect with eachother , messaging features , report/block ( as this platform can be used by any people even if they are children , 
+            so, we strictly prohibit any sort of misbehave or adult content).
+            
+            
+           
+          Prerequisites for implementation:
+             HTML, CSS , reactjs,nodejs, MYSQL , mongodb ,php , and a lot more tools . To make this work .
+             
